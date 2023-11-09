@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "bookself-halur",
+    
     "public": "public",
     "ignore": [
       "firebase.json",
